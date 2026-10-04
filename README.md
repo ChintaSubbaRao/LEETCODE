@@ -51,4 +51,16 @@
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1859-sorting-the-sentence) |
+## Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
