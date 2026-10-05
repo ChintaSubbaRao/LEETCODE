@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -69,4 +70,16 @@
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
