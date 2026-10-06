@@ -98,4 +98,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
