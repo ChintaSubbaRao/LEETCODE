@@ -15,6 +15,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1859-sorting-the-sentence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1859-sorting-the-sentence) |
+| [2351-first-letter-to-appear-twice](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [2351-first-letter-to-appear-twice](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [2351-first-letter-to-appear-twice](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -102,4 +105,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0009-palindrome-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
