@@ -144,6 +144,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2951-find-the-peaks) |
 ## Divide and Conquer
@@ -161,6 +162,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2951-find-the-peaks) |
 ## Union-Find
 |  |
