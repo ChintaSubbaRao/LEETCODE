@@ -13,13 +13,13 @@ class Solution {
 
         int count = 0;
 
-        for(char ch : map2.keySet()){
+        for(char ch : map1.keySet()){
             if(map1.get(ch) == map2.getOrDefault(ch,0)){
 
                 continue;
             }
-            else if(map2.get(ch) > map1.getOrDefault(ch,0)){
-                count += map2.get(ch) - map1.getOrDefault(ch,0);
+            else if(map1.get(ch) > map2.getOrDefault(ch,0)){
+                count += map1.get(ch) - map2.getOrDefault(ch,0);
             }
         }
 
