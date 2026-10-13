@@ -60,6 +60,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1859-sorting-the-sentence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [2942-find-words-containing-character](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2951-find-the-peaks) |
 | [3663-find-the-least-frequent-digit](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
