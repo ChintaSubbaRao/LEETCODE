@@ -14,10 +14,12 @@ class Solution {
         int count = 0;
 
         for(char ch : map2.keySet()){
-            int  tcount = map2.get(ch);
-            int  scount = map1.getOrDefault(ch,0);
-            if(tcount > scount){
-                count += tcount - scount;
+            if(map1.get(ch) == map2.getOrDefault(ch,0)){
+
+                continue;
+            }
+            else if(map2.get(ch) > map1.getOrDefault(ch,0)){
+                count += map2.get(ch) - map1.getOrDefault(ch,0);
             }
         }
 
