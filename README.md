@@ -106,6 +106,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
 ## Queue
 |  |
@@ -155,6 +156,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2951-find-the-peaks) |
 | [3663-find-the-least-frequent-digit](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
@@ -192,4 +194,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0002-add-two-numbers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
