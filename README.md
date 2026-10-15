@@ -32,6 +32,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1137-n-th-tribonacci-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0002-add-two-numbers](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3663-find-the-least-frequent-digit](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
 ## Bit Manipulation
@@ -214,4 +216,5 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
