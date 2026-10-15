@@ -22,6 +22,7 @@
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2942-find-words-containing-character) |
 ## Dynamic Programming
@@ -105,6 +106,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
@@ -123,6 +125,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [3663-find-the-least-frequent-digit](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
 ## Heap (Priority Queue)
