@@ -157,6 +157,7 @@
 | [0171-excel-sheet-column-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -164,6 +165,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0231-power-of-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 ## Array
 |  |
@@ -219,6 +221,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Binary Indexed Tree
 |  |
