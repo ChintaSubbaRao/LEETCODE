@@ -148,6 +148,7 @@
 | [0009-palindrome-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
