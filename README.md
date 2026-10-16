@@ -153,6 +153,7 @@
 | [0066-plus-one](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -167,6 +168,7 @@
 | [0048-rotate-image](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0204-count-primes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -194,6 +196,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2951-find-the-peaks) |
 ## Union-Find
@@ -235,4 +238,20 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
