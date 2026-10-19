@@ -26,6 +26,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
+| [2785-sort-vowels-in-a-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3913-sort-vowels-by-frequency](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3913-sort-vowels-by-frequency) |
 ## Dynamic Programming
@@ -78,6 +79,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1859-sorting-the-sentence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2785-sort-vowels-in-a-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2785-sort-vowels-in-a-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3913-sort-vowels-by-frequency](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3913-sort-vowels-by-frequency) |
 ## Bubble Sort
