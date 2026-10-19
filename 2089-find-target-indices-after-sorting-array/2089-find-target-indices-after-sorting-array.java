@@ -4,11 +4,11 @@ class Solution {
 
         Arrays.sort(nums);
 
-        for(int i = 0; i < nums.length; i++){
+        for(int  i = 0; i < nums.length; i++){
             if(nums[i] == target){
                 ls.add(i);
             }
         }
-        return ls;
+    return ls;
     }
 }
