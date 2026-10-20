@@ -222,6 +222,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -267,4 +268,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
