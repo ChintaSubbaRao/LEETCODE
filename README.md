@@ -8,6 +8,7 @@
 | [0020-valid-parentheses](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0301-remove-invalid-parentheses](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
@@ -74,6 +75,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -106,6 +108,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
@@ -177,6 +180,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0204-count-primes) |
