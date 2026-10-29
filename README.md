@@ -78,6 +78,7 @@
 | [0049-group-anagrams](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1859-sorting-the-sentence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -187,6 +188,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
