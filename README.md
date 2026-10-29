@@ -29,6 +29,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2785-sort-vowels-in-a-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2942-find-words-containing-character) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3913-sort-vowels-by-frequency](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3913-sort-vowels-by-frequency) |
 ## Dynamic Programming
 |  |
@@ -125,6 +126,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
 ## Queue
 |  |
@@ -282,4 +284,8 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 <!---LeetCode Topics End-->
