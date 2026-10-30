@@ -189,6 +189,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0204-count-primes) |
@@ -231,6 +232,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0054-spiral-matrix) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Linked List
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0054-spiral-matrix) |
 ## Newton's Method
 |  |
 | ------- |
