@@ -77,6 +77,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -191,6 +192,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0054-spiral-matrix) |
@@ -299,6 +301,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0015-3sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Sliding Window
 |  |
