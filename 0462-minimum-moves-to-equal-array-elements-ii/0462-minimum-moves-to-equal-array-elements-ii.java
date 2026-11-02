@@ -3,14 +3,13 @@ class Solution {
         int n = nums.length;
         Arrays.sort(nums);
 
-        int median = nums[n/2];
-
-        int ans = 0;
+        int median  = nums[n/2];
+        int sum  = 0;
 
         for(int i = 0; i < n; i++){
-            ans += Math.abs(nums[i] - median);
+            sum += Math.abs(median - nums[i]);
         }
 
-    return ans;
+    return sum;
     }
 }
