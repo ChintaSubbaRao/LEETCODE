@@ -83,6 +83,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1859-sorting-the-sentence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -105,6 +106,7 @@
 | [0069-sqrtx](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0069-sqrtx) |
 | [0450-delete-node-in-a-bst](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
 |  |
@@ -209,6 +211,7 @@
 | [0622-design-circular-queue](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0641-design-circular-deque) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -310,6 +313,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0015-3sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
