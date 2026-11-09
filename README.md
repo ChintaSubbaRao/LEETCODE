@@ -101,12 +101,14 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0069-sqrtx) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Hash Table
@@ -209,6 +212,7 @@
 | [0054-spiral-matrix](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -238,6 +242,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
