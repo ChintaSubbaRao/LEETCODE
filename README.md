@@ -81,6 +81,7 @@
 | [0015-3sum](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -111,6 +112,7 @@
 | [0069-sqrtx](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -219,6 +222,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -306,6 +310,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Newton's Method
 |  |
