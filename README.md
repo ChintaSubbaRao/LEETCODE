@@ -101,6 +101,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0069-sqrtx) |
+| [0098-validate-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -120,6 +122,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -358,4 +361,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0455-assign-cookies) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
