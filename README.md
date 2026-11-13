@@ -234,6 +234,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1672-richest-customer-wealth](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -314,6 +315,7 @@
 | [0048-rotate-image](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Newton's Method
 |  |
