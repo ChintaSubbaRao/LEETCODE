@@ -203,6 +203,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3663-find-the-least-frequent-digit](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
@@ -235,6 +236,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1672-richest-customer-wealth](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -358,6 +360,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Quicksort
 |  |
