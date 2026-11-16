@@ -27,6 +27,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2785-sort-vowels-in-a-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2942-find-words-containing-character) |
@@ -283,6 +284,7 @@
 | [0054-spiral-matrix](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0054-spiral-matrix) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Linked List
 |  |
 | ------- |
