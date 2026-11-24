@@ -207,6 +207,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3663-find-the-least-frequent-digit](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
@@ -250,6 +251,7 @@
 | [2951-find-the-peaks](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3663-find-the-least-frequent-digit](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -274,6 +276,7 @@
 | [0204-count-primes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/2951-find-the-peaks) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Union-Find
 |  |
 | ------- |
@@ -330,6 +333,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
@@ -355,6 +359,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ChintaSubbaRao/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
